@@ -52,4 +52,4 @@ To test the app:
 7.	Submit the App as per the above mentioned steps
 
 
-# NOTE - The submission should be done before 13th July, 2020
+# NOTE - The submission should be done before 18th July, 2020
