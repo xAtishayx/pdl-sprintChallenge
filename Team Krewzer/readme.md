@@ -5,12 +5,15 @@ To improve upon the page speed for shopify based websites. The page speed needs 
 pages by creating an app for shopify.
 
 ## Improvements
-1. Removed unnecessary css/js
-2. Plugins used Page-speed-optimizer
-3. Added Lazy loading
+1. Removed unnecessary css/js.
+2. Plugins used Page-speed-optimizer.
+3. Added Lazy loading.
+4. Pre Lighthouse Performance - 24% || Post Lighthouse Performance - 43%
+5. Pre Desktop Page Speed Insights - 91% || Post Desktop Page Speed Insights - 96%
 
 ### Content
 |_ Team Krewzer
+
     |_theme_krewzer-myshopify-com-.zip
     |_pre-image.png
     |_post-image.png
